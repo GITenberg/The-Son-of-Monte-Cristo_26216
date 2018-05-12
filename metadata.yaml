@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7273
     wikipedia: http://fr.wikipedia.org/wiki/Jules_Lermina
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26216#The-Son-of-Monte-Cristo
 gutenberg_issued: '2008-08-08'
 gutenberg_type: Text
 identifiers:
